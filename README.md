@@ -1,0 +1,2 @@
+# Logo Generator
+This is a logo Generator. After following the instructions in the README file, I was able to create a functional logo generator that allows user to enter information into a prompt and then generate a logo in SVG based off of that information. 
